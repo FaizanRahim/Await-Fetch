@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 10px 12px;
+
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
